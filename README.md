@@ -2,4 +2,4 @@
 ## Sevinch
 ## Najot ta'lim o'quvchisi
 ## Qashqadaryo  viloyati Yakkabog' tumanida tavallud topgan
-## Qiziqishlari
+## Qiziqishlari: Kitob o'qish
